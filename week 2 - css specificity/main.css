@@ -1,0 +1,43 @@
+div, p, h1 {
+    color: #006bb6;
+    padding:6px 6px 6px px;
+    border-left:3px solid #c6c1b8;
+    background:#f2efe9;
+    display:block;
+	  padding-bottom: 25px;
+		border: 3px dotted black;
+		height: 50px;
+		width: 2000px;
+		margin: 0 auto;
+}
+h1 {
+    font-family: sans-serif;
+		font-size: 35px;
+		font-weight: bold;
+	  text-align: center;
+}
+#standout {
+	color:red
+}
+.first { 
+    color:blue
+}
+.second { 
+    color:red
+}
+.third { 
+    color:green
+}
+div p {
+background-color: beige;
+}
+p::first-letter { 
+    font-size: 200%;
+    color: purple;
+}
+p {
+    text-indent: 50px;
+}
+body {
+	font-weight: bold;
+}
