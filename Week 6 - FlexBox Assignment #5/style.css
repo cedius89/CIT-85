@@ -1,0 +1,19 @@
+.cell1 {
+    color: white;
+    background-color: darkblue;
+}
+
+.cell2 {
+    color: white;
+    background-color: blue;
+}
+
+.cell3 {
+    color: white;
+    background-color: lightskyblue;
+}
+
+.cell4 {
+    border: 2px solid red;
+    box-sizing: border-box;
+}
