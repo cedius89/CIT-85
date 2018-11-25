@@ -1,0 +1,15 @@
+body {
+    width: 800px;
+}
+
+.cell1 {
+    width: 60%;
+}
+
+.cell2 {
+    width: 40%;
+}
+
+.cell3, .cell4, .cell5 {
+    width: 33.33%;
+}

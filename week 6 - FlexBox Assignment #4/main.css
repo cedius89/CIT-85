@@ -1,0 +1,37 @@
+html, body, div {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-flow: row wrap;
+    width: 50%;
+    padding: 0;
+    border: 5px solid red;
+    margin: 0 auto;
+}
+
+.cell1, .cell2, .cell3, .cell4, .cell5 {
+    width: 100%;
+
+    min-height: 150px;
+}
+.cell1 {
+    background-color: darkblue;
+}
+
+.cell2 {
+    background-color: blue;
+}
+
+.cell3 {
+    background-color: lightblue;
+}
+
+.cell4 {
+    background-color: lightcyan;
+}
+
+.cell5 {
+    background-color: lightgray;
+}
