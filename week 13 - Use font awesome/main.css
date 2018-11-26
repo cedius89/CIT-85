@@ -1,0 +1,85 @@
+div.footer
+{
+    width: 100%;
+    height: 132px;
+    background-color: #1F1F1F;
+    text-align:center;
+}
+
+div.fa-mobile
+{
+     color: #444;
+    font-size: 2.2em;
+    background-color: #fff;
+    border: 4px solid #E6E6FA;
+    border-radius: 48px;
+    height: 52px;
+    line-height: 44px;
+    width: 52px;
+    text-align:center;
+    float:left;
+    margin-left: 43.5%;
+   margin-right: auto;
+}
+
+div.fa-phone
+{
+    display: inline-block;
+    color: #444;
+    font-size: 2.2em;
+    background-color: #fff;
+    border: 4px solid #E6E6FA;
+    border-radius: 48px;
+    height: 52px;
+    line-height: 44px;
+    width: 52px;
+    text-align:center;
+    float:left;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.fa-plus-square
+{
+    display: inline-block;
+    color: #444;
+    font-size: 2.2em;
+    background-color: #fff;
+    border: 4px solid #E6E6FA;
+    border-radius: 48px;
+    height: 52px;
+    line-height: 44px;
+    width: 52px;
+    text-align:center;
+    float:left;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.fa-envelope
+{
+    color: #444;
+    font-size: 2.2em;
+    background-color: #fff;
+    border: 4px solid #E6E6FA;
+    border-radius: 48px;
+    height: 52px;
+    line-height: 44px;
+    width: 52px;
+    text-align:center;
+    float:left;
+   margin-left: auto;
+   margin-right: auto;    
+}
+
+.copy_text
+{
+    font-family: PT Sans;
+    font-size: 0.8em;
+    font-style: italic;
+    text-align: center;
+    color: #fff;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 6em;
+}
