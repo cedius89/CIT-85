@@ -1,0 +1,13 @@
+div, img {
+    border: 2px solid red;
+    margin: 20px;
+}
+div {
+    overflow: auto;
+}
+#side1 {
+    float: left;
+}
+#side2 {
+    float: right;
+}
